@@ -80,7 +80,7 @@ classDiagram
 
 ### Pengujian Kendaraan Masuk
 
-![Hasil Pengujian Sistem Parkir](screenshots/hasil_pengujian_parkir.png)
+![Hasil Pengujian Sistem Parkir](screenshots/hasil_pengujian_parkir.png.jpeg)
 
 
 Program berhasil menerima tiga kendaraan dan menolak kendaraan keempat karena kapasitas parkir telah penuh.
